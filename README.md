@@ -1,4 +1,4 @@
-## `Desenvolverdor Frontend`
+## `Desenvolvedor Frontend`
 #### JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Python.
 <div style="display: inline_block"><br>
   <img align="center" alt="b-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
