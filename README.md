@@ -44,8 +44,7 @@ Desenvolvedor Front-end em formação com certificação Meta. Focado em criar i
 ---
 
 ### 📊 Estatísticas de Desenvolvedor
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopzn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopzn&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopzn&layout=donut)](https://github.com/brunopzn/github-readme-stats)
 
 ---
 
